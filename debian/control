@@ -1,0 +1,13 @@
+Source: eventlet_inotifyx
+Section: devel
+Priority: optional
+Maintainer: Roma Sokolov
+Uploaders: Roma Sokolov <sokolov.r.v@gmail.com>
+Build-Depends: debhelper (>= 7), cdbs, python-support
+Standards-Version: 3.8.4
+
+Package: python-eventlet-inotifyx
+Architecture: any
+Section: admin
+Depends: python-minimal, python-eventlet, python-inotifyx
+Description: Dumb Simple logger
