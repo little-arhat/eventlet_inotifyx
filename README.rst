@@ -16,6 +16,7 @@ Usage
 -----
 
 ::
+
     import eventlet_inotifyx as inotifyx
 
     fd = inotifyx.init()
