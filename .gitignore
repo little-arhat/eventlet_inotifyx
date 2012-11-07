@@ -1,0 +1,5 @@
+*.pyc
+dist
+eventlet_inotifyx.egg-info
+env
+build
